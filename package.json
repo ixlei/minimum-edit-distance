@@ -1,5 +1,5 @@
 {
-  "name": "minimum-edit-distance",
+  "name": "minimum-edit-distance-js",
   "version": "1.0.0",
   "description": "minimum edit distance",
   "main": "index.js",
