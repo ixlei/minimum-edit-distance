@@ -1,0 +1,24 @@
+{
+  "name": "minimum-edit-distance",
+  "version": "1.0.0",
+  "description": "minimum edit distance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ixlei/minimum-edit-distance.git"
+  },
+  "keywords": [
+    "minimum",
+    "edit",
+    "distance"
+  ],
+  "author": "ixlei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ixlei/minimum-edit-distance/issues"
+  },
+  "homepage": "https://github.com/ixlei/minimum-edit-distance#readme"
+}
